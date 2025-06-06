@@ -1,34 +1,27 @@
-  <h1 align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e75480&height=120&section=header"/>
+
+<h1 align="center">
   <a href="#" style="text-decoration: none;">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Natany+Oliveira+de+Araújo+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Natany+Oliveira+de+Araújo+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo(a)+ao+meu+GitHub!" 
       alt="Typing SVG" 
     />
   </a>
 </h1>
 
-## 🔭 Atualmente trabalhando em
-Projetos acadêmicos em C.
+<div align="center" style="max-width: 700px; margin: 0 auto;">
+  <p style="text-align: left; font-weight: bold; font-size: 16px; line-height: 1.4; color: #222;">
+    Atualmente, trabalho em projetos acadêmicos em C e estudo C e Python, com foco em fundamentos como laços, vetores, funções, ponteiros e strings. Busco colaborar em projetos simples voltados para iniciantes, utilizando plataformas como Beecrowd para aprimorar minha lógica de programação.
+  </p>
 
-## 🌱 Atualmente estudando
-Linguagens C e Python, focando em fundamentos como laços, vetores, funções, ponteiros e strings.
+  <hr style="width: 100%; margin: 20px 0;" />
 
-## 👯 Buscando colaborar em
-Projetos simples em C ou Python, voltados para iniciantes.
-
-## ⚡ Curiosidade
-Uso Beecrowd e listas da faculdade para treinar lógica de programação! 🚀
-
-<div>
-  <a href="https://github.com/NatanyOliveira" target="_blank" rel="noopener noreferrer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanyOliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanyOliveira&layout=compact&langs_count=16&theme=radical"/>
+  <a href="https://github.com/NatanyOliveira" target="_blank" rel="noopener noreferrer" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanyOliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanyOliveira&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
   </a>
-</div>
 
-<div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px; font-family: sans-serif;">
-
-  <div style="display: flex; gap: 15px; margin-bottom: 20px;">
+  <div style="display: flex; gap: 15px; margin: 20px 0; justify-content: center;">
     <img alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
     <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   </div>
@@ -48,9 +41,15 @@ Uso Beecrowd e listas da faculdade para treinar lógica de programação! 🚀
     📧 <a href="mailto:oliveiradearaujonatany@gmail.com" style="color:#0366d6;">oliveiradearaujonatany@gmail.com</a>
   </p>
 
+  <picture style="display: block; margin: 20px auto 0 auto;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NatanyOliveira/NatanyOliveira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NatanyOliveira/NatanyOliveira/output/github-contribution-grid-snake-dark.svg">
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/NatanyOliveira/NatanyOliveira/output/github-contribution-grid-snake.svg"
+      style="border: 3px solid #4CAF50; border-radius: 8px;"
+    />
+  </picture>
 </div>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NatanyOliveira/NatanyOliveira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NatanyOliveira/NatanyOliveira/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NatanyOliveira/NatanyOliveira/output/github-contribution-grid-snake.svg">
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e75480&height=120&section=footer"/>
+
