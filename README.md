@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e75480&height=100&section=header"/>
 
 <h1 align="center" style="color:#e0e0e0">Natany Oliveira de Araújo</h1>
-<h3 align="center" style="color:#b497d6">Estudante de Tecnologia | Explorando C & Python</h3>
+<h3 align="center" style="color:#b497d6">Estudante de TI | Desenvolvedora em Formação | Foco em Backend com C & Python</h3>
 
 <p align="center" style="max-width: 600px; color:#e0e0e0">
 Sou dedicada ao aprendizado constante, focada em programação em C e Python. Trabalho em projetos acadêmicos e busco aprimorar minha lógica resolvendo desafios no Beecrowd.
@@ -36,7 +36,8 @@ Sou dedicada ao aprendizado constante, focada em programação em C e Python. Tr
   <a href="https://www.linkedin.com/in/natany-oliveira-de-ara%C3%BAjo-101005292/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</
+p>
 
 ---
 
