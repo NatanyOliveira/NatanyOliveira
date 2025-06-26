@@ -1,10 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e75480&height=100&section=header"/>
 
 <h1 align="center" style="color:#e0e0e0">Natany Oliveira de Araújo</h1>
-<h3 align="center" style="color:#b497d6">Estudante de TI | Desenvolvedora em Formação | Foco em Backend com C & Python</h3>
+<h3 align="center" style="color:#b497d6">Information Technology Undergraduate | Aspiring Data Analyst | Learning Python, Pandas, NumPy, SQL & C
+</h3>
 
 <p align="center" style="max-width: 600px; color:#e0e0e0">
-Sou dedicada ao aprendizado constante, focada em programação em C e Python. Trabalho em projetos acadêmicos e busco aprimorar minha lógica resolvendo desafios no Beecrowd.
+I’m dedicated to continuous learning, focusing on data analysis and programming with Python and C. I work on academic projects and improve my skills by practicing data manipulation, exploratory analysis, and solving coding challenges.
 </p>
 
 ---
