@@ -13,8 +13,14 @@ I’m dedicated to continuous learning, focusing on data analysis and programmin
 ### 💻 Tecnologias em foco
 
 <div align="center">
+  <!-- C -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" style="margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin-right:10px;" />
+
+  <!-- MySQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" style="margin-right:10px;" />
 </div>
 
 ---
@@ -34,11 +40,11 @@ I’m dedicated to continuous learning, focusing on data analysis and programmin
   <a href="mailto:oliveiradearaujonatany@gmail.com">
     <img src="https://img.shields.io/badge/-Email-e75480?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/natany-oliveira-de-ara%C3%BAjo-101005292/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</
-p>
+</p>
 
 ---
 
@@ -47,3 +53,4 @@ p>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e75480&height=100&section=footer"/>
+
