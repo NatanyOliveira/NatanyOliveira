@@ -1,81 +1,105 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e75480&height=120&section=header&text=Natany%20Oliveira&fontSize=70&fontAlign=50&animation=fadeIn"/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=e75480&center=true&vCenter=true&width=500&lines=Data+Intern+%7C+IT+Undergraduate;Backend+Developer+%26+SQL+Specialist;Turning+Data+Into+Insights" alt="Typing SVG" />
-  </a>
 
-  <p>
-    <a href="https://www.linkedin.com/in/natany-oliveira-de-araújo-101005292/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="mailto:oliveiradearaujonatany@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1f6feb,100:58a6ff&height=200&section=header&text=SELECT%20*%20FROM%20visitors%20WHERE%20status%20%3D%20'welcome'&fontSize=35&fontAlign=50&animation=fadeIn&fontColor=ffffff"/>
 
-<br />
+<br/>
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+%7C+Data+Analysis;Data+Integration+%7C+ETL;Learning+and+Building+with+Data;Turning+Data+Into+Insights"/>
 
-I am an **Information Technology undergraduate at UFRN** and a **Data Intern**, passionate about transforming raw data into strategic insights. My expertise lies in the intersection of Data Engineering and Backend Development.
+<br/><br/>
 
-* 🔭 I’m currently working on **ETL pipelines** and **SQL optimization** for business intelligence.
-* 💻 I love solving problems using **Python (Pandas/NumPy)** and automating workflows.
-* 🎯 My goal is to develop scalable data solutions that drive real-world decision-making.
-
----
-
-## 🛠️ Technical Stack
-
-I organize my skills into three main pillars: **Development**, **Data Engineering**, and **Tools**.
-
-<div align="center">
-
-  <h4>💻 Core Development</h4>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  
-  <br/><br/>
-
-  <h4>🗃️ Data & Databases</h4>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-
-  <br/><br/>
-  
-  <h4>⚙️ Tools & DevOps</h4>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<a href="https://www.linkedin.com/in/natany-oliveira-araujo/" target="_blank">
+  LinkedIn
+</a>
+&nbsp; | &nbsp;
+<a href="mailto:oliveiradearaujonatany@gmail.com">
+  Email
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## About Me
+
+I am an Information Technology undergraduate and a TI Intern with hands-on experience in SQL, ETL processes, and data integration in real-world systems.
+
+I work with data analysis, validation, and backend support, helping ensure data consistency and improving processes through automation.
+
+Currently, I am focused on improving my skills in SQL, data visualization, and Python for data analysis.
+
+---
+
+## Experience
+
+**TI Intern – Frenet (Remote)**  
+Oct 2025 – Present  
+
+- Analyze and validate data using SQL Server  
+- Develop and optimize SQL queries and stored procedures  
+- Support ETL processes and data integration  
+- Automate workflows to reduce manual tasks  
+- Assist in backend logic using C#  
+- Ensure data quality and consistency  
+
+---
+
+## What I Work With
+
+- SQL (queries, JOINs, aggregations)  
+- ETL and data integration  
+- Data validation and cleaning  
+- Backend support and automation  
+
+---
+
+## Technical Skills
+
+**Data & Analytics**  
+SQL (SQL Server, PostgreSQL, MySQL)  
+Excel (Advanced)  
+Power BI  
+
+**Data Engineering**  
+ETL Processes  
+Data Integration  
+Data Validation  
+
+**Programming**  
+Python (Pandas, NumPy)  
+C / C++ / C#  
+R  
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NatanyOliveira&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NatanyOliveira&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NatanyOliveira&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=6e7681" />
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NatanyOliveira&layout=compact&hide_border=true&title_color=58A6FF&text_color=6e7681"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatanyOliveira&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NatanyOliveira&theme=dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
 </div>
 
 ---
 
+## Activity
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NatanyOliveira/NatanyOliveira/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+<img src="https://raw.githubusercontent.com/NatanyOliveira/NatanyOliveira/output/github-contribution-grid-snake.svg" />
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e75480&height=80&section=footer"/>
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0a192f&height=120&section=footer"/>
