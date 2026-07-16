@@ -16,10 +16,6 @@
   <img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/NatanyOliveira">
-  <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=NatanyOliveira&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile views"/>
